@@ -1,2 +1,2 @@
-console.log(1);
+cons number = [1, 2, 3, 4];
 
