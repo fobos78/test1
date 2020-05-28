@@ -1,2 +1,3 @@
-console.log(188888888888);
+cons number = [1, 2, 3, 4];
+
 
